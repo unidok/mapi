@@ -3,6 +3,7 @@
 # MAPI
 Module API - ядро для модулей, использующихся на сервере JustMC. Оно похоже на ядро Bukkit для серверов в майнкрафте, только Bukkit загружает плагины, а MAPI загружает модули.
 
+### Последнаяя версия: `/module loadUrl https://raw.githubusercontent.com/unidok/modules/main/mapi/0.9.json`
 
 
 
